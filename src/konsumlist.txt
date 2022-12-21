@@ -1,0 +1,6 @@
+=====================================
+STRUK PEMESANAN , BAWA KE KASIR
+Nik : 333
+Nama : raju
+Pesanan : Kentang Goreng
+=====================================
